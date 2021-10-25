@@ -29,7 +29,10 @@ img {
 
 /* ___________ Styles ___________ */
 
+/* General */
+
 body {
+    background: url(./images/pattern-background-desktop.svg) repeat-x;
     font-family: 'Red Hat Display', sans-serif;
 }
 
